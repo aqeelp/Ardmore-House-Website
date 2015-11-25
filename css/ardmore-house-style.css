@@ -1,0 +1,91 @@
+<style type="text/css">
+	* { 
+		font-family: "Lucida Sans Unicode"; 
+	}
+	body { 
+		background-color: #36650F; 
+	}
+	.container { 
+		background-color: white;
+		border-radius: 5px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.navbar-brand {
+		padding: 0px;
+		margin-right: 5px;
+		padding-left: 5px;
+	}
+	.navbar-brand img {
+		height: 50px;
+	}
+	.jumbotron {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	#header.jumbotron  {
+		padding: 5px;
+	}
+	#header.jumbotron h1 {
+		margin: 0px;
+	}
+	.navbar {
+		margin-top: 10px;
+	}
+	h1.brand {
+		/*color: #DD5000;*/
+		color: #E57A4F;
+		font-size: 3em;
+	}
+	h2 {
+		/*color: #3C6F11;*/
+		color: #3C6F11;
+	}
+	h4 {
+		/*color: #992E2E;*/
+		/*color: #DD5000;*/
+		color: #E57A4F;
+	}
+
+	.event {
+		margin-bottom: 30px;
+	}
+
+	.span1 { 
+		margin-bottom: 10px; 
+	}
+
+	.jumbotron {
+		/*background-color: #FFE9DE;*/
+		
+	}
+
+
+
+	span.big_letter { 
+		font-size: 1.2em; 
+		/*color: #DD5000;*/
+		color: #E57A4F;
+		/*color: #992E2E;*/ 
+	}
+	
+	h3.brand { 
+		/*color: #3C6F11; */
+		font-variant: small-caps;
+	}
+	.brand { 
+		font-variant: small-caps; 
+	}
+	span.brand {
+		font-family: Lucida Console;
+		font-size: 1.2em;
+	}
+	
+	p.norm { 
+		font-size: 16px; line-height: 1.428; 
+	}
+
+	footer {
+		color: #3C6F11;
+	}
+</style>
